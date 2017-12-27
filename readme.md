@@ -4,7 +4,12 @@ This repository provides a list of devices, their viewport and other characteris
 
 ## How to use the library
 
+The list of devices was put inside a language independent JSON file. It was designed to be used by any programing language out there.
+
 ### PHP Projects
+We registered this package on packagist and it can be installed via composer.
+
+```composer require leankoala/devices```
 
 ## Projects using this library
 
