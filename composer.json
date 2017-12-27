@@ -1,4 +1,5 @@
 {
   "name": "leankoala/devices",
-  "description": "List of devices, viewport and other characteristics"
+  "description": "List of devices, viewport and other characteristics",
+  "license": "MIT"
 }
