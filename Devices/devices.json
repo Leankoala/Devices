@@ -334,5 +334,17 @@
       "isMobile": false,
       "hasTouch": false
     }
+  },
+  {
+    "identifier": "MacBookPro152017_Leankoala",
+    "name": "MacBook Pro 15\" (2017, Leankoala)",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36",
+    "viewport": {
+      "width": 2880,
+      "height": 1800,
+      "deviceScaleFactor": 1,
+      "isMobile": false,
+      "hasTouch": false
+    }
   }
 ]
