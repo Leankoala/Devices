@@ -328,8 +328,8 @@
     "name": "MacBook Pro 15\" (2017)",
     "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36",
     "viewport": {
-      "width": 2880,
-      "height": 1800,
+      "width": 1440,
+      "height": 900,
       "deviceScaleFactor": 1,
       "isMobile": false,
       "hasTouch": false
@@ -340,8 +340,8 @@
     "name": "MacBook Pro 15\" (2017, Leankoala)",
     "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36",
     "viewport": {
-      "width": 2880,
-      "height": 1800,
+      "width": 1440,
+      "height": 900,
       "deviceScaleFactor": 1,
       "isMobile": false,
       "hasTouch": false
